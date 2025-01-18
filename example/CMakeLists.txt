@@ -12,5 +12,5 @@ target_compile_options(testserver PRIVATE -std=c++11 -Wall)
 
 # 设置 testserver 可执行文件输出目录
 set_target_properties(testserver PROPERTIES
-    RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
+    RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin
 )

@@ -1,6 +1,10 @@
 # muduo-core
 
 【代码随想录知识星球】项目分享-muduo核心实现
+
+> https://www.bilibili.com/video/BV1UE4m1R72y
+> https://www.yuque.com/chengxuyuancarl/gixnqn/mwll4lrl8y2m33gn
+
 ## 项目介绍
 
 本项目是参考 muduo 实现的基于 多Reactor 模型的多线程网络库。使用 C++ 11 编写去除 muduo 对 boost 的依赖。
